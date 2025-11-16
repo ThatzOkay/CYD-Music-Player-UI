@@ -1,4 +1,4 @@
-<project name="examples">
+<project name="CYD-Music-Player">
 	<targets>
 		<target name="full_view">
 			<display width="320" height="240" />
