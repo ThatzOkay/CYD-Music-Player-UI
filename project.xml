@@ -1,0 +1,7 @@
+<project name="examples">
+	<targets>
+		<target name="full_view">
+			<display width="320" height="240" />
+		</target>
+	</targets>
+</project>
