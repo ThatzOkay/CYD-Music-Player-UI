@@ -1,12 +1,12 @@
 /**
- * @file ui_cyd_music_player.c
+ * @file cyd_music_player.c
  */
 
 /*********************
  *      INCLUDES
  *********************/
 
-#include "ui_cyd_music_player.h"
+#include "cyd_music_player.h"
 
 /*********************
  *      DEFINES
@@ -32,9 +32,9 @@
  *   GLOBAL FUNCTIONS
  **********************/
 
-void ui_cyd_music_player_init(const char * asset_path)
+void cyd_music_player_init(const char * asset_path)
 {
-    ui_cyd_music_player_init_gen(asset_path);
+    cyd_music_player_init_gen(asset_path);
 
     /* Add your own custom code here if needed */
 }

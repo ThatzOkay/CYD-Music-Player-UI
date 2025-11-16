@@ -8,7 +8,7 @@
  *********************/
 
 #include "screen_cyd_music_player_gen.h"
-#include "ui_cyd_music_player.h"
+#include "cyd_music_player.h"
 
 /*********************
  *      DEFINES
